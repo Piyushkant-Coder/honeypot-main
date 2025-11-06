@@ -1,0 +1,5 @@
+2025-11-06 04:13:11,832 Client with IP: 127.0.0.1 entered
+ Username: 'test' and Password: 'test'
+2025-11-06 04:13:11,832 Failed login attempt from IP: 127.0.0.1 with Username: 'test' and Password: 'test'
+2025-11-06 09:48:54,173 Client with IP: 127.0.0.1 entered
+ Username: 'admin' and Password: 'password'

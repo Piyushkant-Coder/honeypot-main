@@ -1,0 +1,15 @@
+127.0.0.1, username,
+127.0.0.1 - CMD: exit
+127.0.0.1, username,
+127.0.0.1 - CMD: exit
+127.0.0.1, username,
+127.0.0.1 - CMD: ls
+127.0.0.1 - Response: ls
+127.0.0.1 - CMD: pwd
+127.0.0.1 - Response: pwd
+127.0.0.1 - CMD: whoami
+127.0.0.1 - Response: whoami
+127.0.0.1 - CMD: ls
+127.0.0.1 - Response: ls
+127.0.0.1 - CMD: cat secrets.txt
+127.0.0.1 - Response: cat secrets.txt
